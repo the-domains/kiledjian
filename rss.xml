@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kiledjian]]></title>
         <description><![CDATA[Kiledjian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kiledjian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 16:28:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 16:29:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kiledjian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Best compression bag/sack for travel or camping]]></title>
             <description><![CDATA[<article><h1>Best compression bag/sack for travel or camping</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a589842a-4bff-43a9-99e7-c162528356db.png"></article>]]></description>
-            <link>undefinedbest-compression-bagsack-for-travel-or-camping/index.html</link>
+            <link>https://thegrid.ai/kiledjian/best-compression-bagsack-for-travel-or-camping/index.html</link>
             <guid isPermaLink="false">4bdf1880-aca1-4fd1-87e0-e32fe1bcc36f</guid>
-            <pubDate>Wed, 11 Nov 2015 16:27:55 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2015 16:29:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
