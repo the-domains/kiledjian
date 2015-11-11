@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T16:27:55.772Z'
-dateModified: '2015-11-11T16:27:36.311Z'
+datePublished: '2015-11-11T16:29:15.787Z'
+dateModified: '2015-11-11T16:29:11.394Z'
 title: Best compression bag/sack for travel or camping
 authors: []
 publisher:
