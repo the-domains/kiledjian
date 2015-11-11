@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kiledjian]]></title>
+        <description><![CDATA[Kiledjian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 16:28:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best compression bag/sack for travel or camping]]></title>
+            <description><![CDATA[<article><h1>Best compression bag/sack for travel or camping</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a589842a-4bff-43a9-99e7-c162528356db.png"></article>]]></description>
+            <link>undefinedbest-compression-bagsack-for-travel-or-camping/index.html</link>
+            <guid isPermaLink="false">4bdf1880-aca1-4fd1-87e0-e32fe1bcc36f</guid>
+            <pubDate>Wed, 11 Nov 2015 16:27:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
